@@ -55,3 +55,24 @@ Escrevi um artigo em que falo de alguns conceitos abordados no workshop, ele pod
 - [Melhores práticas ao usar JWT](https://auth0.com/blog/a-look-at-the-latest-draft-for-jwt-bcp/) (em inglês)
 - [RFC do JWT](https://tools.ietf.org/html/rfc7519) (em inglês)
 - [Claims do JWT](https://ldapwiki.com/wiki/JSON%20Web%20Token%20Claims) - Aqui você encontra as reserved claims com breves explicações e também as do - [OpenID Connect Standard Claims](https://ldapwiki.com/wiki/OpenID%20Connect%20Standard%20Claims)
+
+## 📱 Minhas redes sociais:
+
+<p align="center">
+   <a href="https://github.com/thallesyasmim" target="_blank" >
+    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
+    
+      
+  <a href="https://www.facebook.com/thalles.gabriel.1690" target="_blank" >
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a>
+    
+    
+  <a href="mailto:thallesgabriel1307@gmail.com" target="_blank" >
+    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a> 
+  
+  <a href="https://api.whatsapp.com/send?phone=5511970670088" target="_blank" >
+    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>
+ </p>
+
+
+## Feito com ❤ por Thalles Gabriel 🔥 
