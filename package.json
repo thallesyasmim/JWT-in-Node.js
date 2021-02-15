@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run sequelize:migrate && node src/index.js",
-    "dev": "NODE_ENV=dev nodemon --inspect=0.0.0.0 src/index.js",
+    "dev": "nodemon --inspect=0.0.0.0 src/index.js",
     "lint": "eslint ./src ./config --ext .json --ext .js --fix",
     "sequelize:migrate": "sequelize db:migrate --env database"
   },
