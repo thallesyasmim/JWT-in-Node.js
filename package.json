@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/askmon/jwt-rocketseat.git"
+    "url": "git+https://github.com/thallesyasmim/JWT-in-Node.js.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/askmon/jwt-rocketseat/issues"
+    "url": "https://github.com/thallesyasmim/JWT-in-Node.js.git/issues"
   },
-  "homepage": "https://github.com/askmon/jwt-rocketseat#readme",
+  "homepage": "https://github.com/thallesyasmim/JWT-in-Node.js.git#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "jsonwebtoken": "^8.5.1",
@@ -33,7 +33,8 @@
     "pg-hstore": "^2.3.3",
     "ramda": "^0.26.1",
     "sequelize": "^5.21.2",
-    "sequelize-cli": "^5.5.1"
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^5.0.0"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
