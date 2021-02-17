@@ -8,6 +8,10 @@ const signOptions = { // If we use the same secret to generate and validate the 
 }
 // So we will use a private key to generate new tokens and a public one to validate
 
+// Some people increase the token expiration time so that the user does not have the frustration of logging in again. But there are techniques for this, which can be reauthenticate or the refresh token.
+
+// If we find these rules too complex, we can use authentication providers that will already take care of this part for us, such as firebase, auth0, etc.
+
 const sign = payload => jwt.sign(payload, config.jwt.privateKey.replace(/\n/gm, '\n'), signOptions) // jwt.decode() - return information of payload | jwt.sign() - generate new jwt | jwt.verify() - verify signature and return information payload
 // yasmim - secret
 
