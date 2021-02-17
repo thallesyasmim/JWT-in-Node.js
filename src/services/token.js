@@ -3,7 +3,8 @@ const jwt = require('jsonwebtoken')
 const { crypto: config } = require('../../config')
 
 const signOptions = { // If we use the same secret to generate and validate the token, people who discover our secret can use it to enter services that they shouldn't
-  algorithm: 'RS256' // There are different algorithms for private keys, let's use RS256 for example
+  algorithm: 'RS256', // There are different algorithms for private keys, let's use RS256 for example
+  expiresIn: '1s'
 }
 // So we will use a private key to generate new tokens and a public one to validate
 
