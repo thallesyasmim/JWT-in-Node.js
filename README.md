@@ -1,6 +1,6 @@
 # JWT - Autenticação e melhores práticas
 
-Repositório do Workshop de melhores práticas usando JWT.
+Repositório do Workshop de melhores práticas usando JWT. https://jwt.io/
 
 Na branch `complete` você encontra a versão final do projeto feita durante o workshop.
 
